@@ -1,6 +1,8 @@
 
 # Admin Panel of Hotel Management System
 
+This is the project assignemnt to be submitted for Scaler SDE profile by Divyansh Palia
+
 ## Email : admin@gmail.com
 ## Password : adminadmin
 
