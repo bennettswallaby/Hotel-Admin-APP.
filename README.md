@@ -1,5 +1,5 @@
 
-# Admin Panel of Hotel Management System
+# Admin Page for Hotel Management System
 
 This is the project assignemnt to be submitted for Scaler SDE profile by Divyansh Palia
 
